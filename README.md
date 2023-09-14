@@ -1,15 +1,13 @@
-<h1 align="center">Hi 👋, I'm Seyed Alireza Ezaz</h1>
-<h3 align="center">A passionate frontend developer from Iran</h3>
+<h1 align="center">Hi 👋, I'm Alireza Ezaz</h1>
+<h3 align="center">A passionate Computer Science Student</h3>
 
 - 🔭 I’m currently working on [SevenTask](app.seventask.com)
 
-- 🌱 I’m currently learning **FrontEnd Technologies**
+- 🌱 I’m currently Studying M.Sc. Computer Science at **Brock University**
 
-- 💬 Ask me about **Angular, Typescript**
+- 📫 How to reach me **sezaz@brocku.ca**
 
-- 📫 How to reach me **sar.ezaz@aut.ac.ir**
-
-- ⚡ Fun fact **I think I am a good tennis player**
+- ⚡ Fun fact **I think I am a good tennis/Basketball player**
 
 
 <h3 align="left">Languages and Tools:</h3>
