@@ -43,7 +43,8 @@ Source-grounded AI legal research assistant for personal-injury attorneys. Every
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Alireza-Ezaz/CaseLogic)
 [![Demo](https://img.shields.io/badge/Demo-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/7VE8Qm21KM8)
-![3rd Place](https://img.shields.io/badge/🏆_3rd_Place-EvenUp_Hackathon-FFD700?style=flat-square)
+
+🏆 3rd Place — EvenUp × OpenClaw Hackathon
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude_AI-CC6B49?style=flat-square)
@@ -78,7 +79,7 @@ Agentic AI copilot for industrial bakery supply chains. Multi-agent LangGraph sy
 
 Full-stack task management platform co-founded from scratch. Angular + .NET architecture; Kanban board, calendar, real-time chat, auth, REST APIs with Swagger docs. Scaled to 200+ MAU using A/B testing and user feedback loops.
 
-[![Live App](https://img.shields.io/badge/Live_App-0078D4?style=flat-square&logo=microsoft&logoColor=white)](https://app.seventask.com)
+[![Demo](https://img.shields.io/badge/Demo-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/results?search_query=seventask)
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
@@ -94,7 +95,8 @@ Full-stack task management platform co-founded from scratch. Angular + .NET arch
 LLM-assisted trace analysis using query-specific temporal knowledge graphs. Makes large-scale system traces interpretable. Accepted at **ICSE 2026**. Presented at **Tracing Summit 2025** to engineers from Google, Ciena, and Ericsson.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Alireza-Ezaz/TAAF)
-![ICSE 2026](https://img.shields.io/badge/ICSE_2026-accepted-brightgreen?style=flat-square)
+[![Paper](https://img.shields.io/badge/Paper-ICSE_2026-brightgreen?style=flat-square)](https://arxiv.org/abs/2601.02632)
+[![Talk](https://img.shields.io/badge/Talk-Tracing_Summit_2025-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=ZFPvcJ5EyXY)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-339933?style=flat-square)
@@ -154,10 +156,10 @@ LLM-assisted trace analysis using query-specific temporal knowledge graphs. Make
 
 | Paper | Venue |
 |---|---|
-| TAAF: A Trace Abstraction and Analysis Framework Synergizing Knowledge Graphs and LLMs | **ICSE 2026** |
-| Utilizing Graph Neural Networks for Effective Link Prediction in Microservice Architectures | **ICPE 2025** |
-| Analyzing Performance Variability in Alibaba's Microservice Architecture: A Critical-Path-Based Perspective | **ICPE 2024** |
-| Network Analysis of Microservices: A Case Study on Alibaba Production Clusters | **ICPE 2024** |
+| [TAAF: A Trace Abstraction and Analysis Framework Synergizing Knowledge Graphs and LLMs](https://arxiv.org/abs/2601.02632) | **ICSE 2026** |
+| [Utilizing Graph Neural Networks for Effective Link Prediction in Microservice Architectures](https://dl.acm.org/doi/10.1145/3676151.3719362) | **ICPE 2025** |
+| [Analyzing Performance Variability in Alibaba's Microservice Architecture: A Critical-Path-Based Perspective](https://dl.acm.org/doi/10.1145/3629527.3651845) | **ICPE 2024** |
+| [Network Analysis of Microservices: A Case Study on Alibaba Production Clusters](https://dl.acm.org/doi/10.1145/3629527.3651842) | **ICPE 2024** |
 
 ---
 
